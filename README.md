@@ -1,8 +1,9 @@
 # Perfume-Card-Preview
 
 ## Live Demo
+## Live Demo
 
-You can see a live demo of this project at [https://SethNamara.github.io/Perfume-Card-Preview/](https://SethNamara.github.io//Perfume-Card-Preview/).
+You can see a live demo of this project at [https://sethnamara.github.io/Perfume-Product-Preview/](https://sethnamara.github.io/Perfume-Product-Preview/).
 
 
 Project Title
