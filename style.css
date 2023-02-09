@@ -51,7 +51,7 @@ body {
     background-color: var(--clr-neutral-300);
     width: 300px;
     margin: 60px auto;
-    height: 560px;
+    height: 100vh;
 
     border-radius: 0.875rem;
 }
@@ -139,7 +139,7 @@ button:hover {
     padding-right: 10px;
 }
 
-@media screen and (min-width: 50em) {
+@media screen and (min-width: 23.4375em) {
     .container {
         width: 500px;
         height: 420px;
