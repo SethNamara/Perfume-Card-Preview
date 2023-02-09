@@ -3,6 +3,9 @@
 ## Live Demo
 Your site is live at https://sethnamara.github.io/Perfume-Card-Preview/
 
+![Green Gradient Monotone Minimalist Presentation Template](https://user-images.githubusercontent.com/106119806/217854965-1c19a6a9-adc8-47f3-9633-43255afe71ed.png)
+
+
 Project Title
 This is a frontend mentor project about a product card component.
 
