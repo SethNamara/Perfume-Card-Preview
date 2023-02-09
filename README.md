@@ -3,6 +3,8 @@
 ## Live Demo
 Your site is live at https://sethnamara.github.io/Perfume-Card-Preview/
 
+https://github.com/SethNamara/Perfume-Card-Preview/issues/1#issue-1578066807
+
 Project Title
 This is a frontend mentor project about a product card component.
 
