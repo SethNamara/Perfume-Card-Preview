@@ -1,8 +1,7 @@
 # Perfume-Card-Preview
 
 ## Live Demo
-
-https://SethNamara/Perfume-Card-Preview.github.io
+Your site is live at https://sethnamara.github.io/Perfume-Card-Preview/
 
 Project Title
 This is a frontend mentor project about a product card component.
