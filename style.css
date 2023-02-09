@@ -142,7 +142,7 @@ button:hover {
 @media screen and (min-width: 23.4375em) {
     .container {
         width: 500px;
-        height: 420px;
+        height: 100vh;
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
