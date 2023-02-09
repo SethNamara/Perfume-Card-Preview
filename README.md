@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-You can see a live demo of this project at [https://sethnamara.github.io/Perfume-Product-Preview/](https://sethnamara.github.io/).
+You can see a live demo of this project at 
 
 Project Title
 This is a frontend mentor project about a product card component.
